@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Yuya.Nishida. <yuya@j96.org>
+MAINTAINER davar
 
 RUN \
   set -x && \
