@@ -1,4 +1,4 @@
-# docker-vagrant-ubuntu build and push
+# vagrant-docker-ubuntu: build and push
 
 ```
 docker build -t davarski/vagrant-docker-ubuntu:xenial .
